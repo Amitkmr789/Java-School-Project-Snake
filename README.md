@@ -70,4 +70,6 @@
 [github地址](https://github.com/CNS1mple/Java-School-Project-Snake)  
 
 [点此下载](https://github.com/CNS1mple/Java-School-Project-Snake/archive/master.zip)
+**
+HOPE YOU ALL ENJOY**
 
